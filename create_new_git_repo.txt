@@ -1,0 +1,1 @@
+## Git process to create a new repo to be used as test
