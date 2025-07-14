@@ -1,1 +1,6 @@
 ## Git process to create a new repo to be used as test
+
+1. First repo update done.
+
+2. We'll now push 2nd update to version 2
+
